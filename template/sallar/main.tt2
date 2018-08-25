@@ -39,16 +39,17 @@
         <div class="logo">
         	<img src="{{ MAIN.static }}/theme/sallar/img/logo1.png" alt="logo" class="img-responsive">
         </div>
-		<p class="name">{{ MAIN.author }}</p>
-		<p class="bio">I'm back-end developer. i like data minig and security</br>
-		<p> Python | Django | scikit-learn | pentest | linux </p>
-		<p class="motto">Smile :)</p>
+		<p class="name">{{ MAIN.title }}</p>
+		<p class="bio">{{ MAIN.description }}</br>
+		<p> {{ MAIN.tools }} </p>
+		<p class="motto">{{ MAIN.note }}</p>
 
 
 	    <footer>
     	<div class="footer-menu">
     		<a target="_blank" href="{{ MAIN.instagram }}" style="color:black"><i class="fab fa-instagram"></i></a>
 			<a target="_blank" href="{{ MAIN.twitter }}" style="color:black"><i class="fab fa-twitter"></i></a>
+			<a target="_blank" href="{{ MAIN.youtube }}" style="color:black"><i class="fab fa-youtube"></i></a>
 			<a target="_blank" href="{{ MAIN.github }}" style="color:black"><i class="fab fa-github"></i></a>
 			<a target="_blank" href="{{ MAIN.keybase }}" style="color:black"><i class="fab fa-keybase"></i></a>
 			<a target="_blank" href="{{ MAIN.linkedin }}" style="color:black"><i class="fab fa-linkedin"></i></a>

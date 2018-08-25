@@ -1,0 +1,20 @@
+title: بنیامین سلیمی
+description: یک توسعه دهنده سمت سرور علاقه مند به داده و امنیت!
+author: بنیامین سلیمی
+language: Farsi
+
+url: https://benyamin.pw/fa
+root: /fa/
+
+default_extension: md
+
+permalink: :title/
+
+template: sallar
+
+lists:
+
+namespace:
+
+plugins:
+ - Jdate

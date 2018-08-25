@@ -1,0 +1,34 @@
+title: Benyamin Salimi
+description: Back-End developer/ Data & Security lover
+
+author: Benyamin 
+email: benyamin.salimi@gmail.com
+timezone: +04:30
+
+url: https://benyamin.pw/
+root: /
+static: /static
+
+icon: /static/theme/sallar/img/iconn.ico
+
+post_num: all
+archive_post_num: all
+feed_output: atom.xml
+
+default_floor: fa
+default_markup: mmd
+
+#disqus_shortname: cocii
+
+template: sallar
+
+ 
+ 
+
+twitter: https://twitter.com/BenyaminSalimi
+github: https://github.com/BenyaminSalimi
+linkedin: https://linkedin.com/in/benyaminsalimi/
+keybase: https://keybase.io/benyamin/
+instagram: https://instagram.com/benyaminsalimi
+skype: "skype:benyamin.salimi"
+GoogleTrackingID: UA-57633569-3

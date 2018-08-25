@@ -1,0 +1,15 @@
+title: Benyamin Salimi
+description: Back-End developer/ data and security lover
+author: Benyamin Salimi
+language: English
+
+url: https://bneyamin.pw/en
+root: /en
+
+default_extension: md
+
+permalink: :title/
+
+template: sallar
+
+lists:

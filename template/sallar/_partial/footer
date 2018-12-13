@@ -6,9 +6,7 @@
     </section>-->
     <section class="container">
       <div class="delimiter">
-        <a href="{{ MAIN.root }}" class="logo">
-          <img src="{{ MAIN.static }}/theme/sallar/img/logo.svg">
-        </a>
+        
       </div>
       <p>
         {{ IF SITE.language == 'Farsi' }}
@@ -19,7 +17,7 @@
           Content is licensed under <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/" rel="license" target="_blank">Creative Commons</a>.
         {{ END }}
         <br>
-        powered with 💜 by <a href="https://miraxy.github.io">Mira</a>
+        قدرت گرفته با  💜 توسط <a href="https://miraxy.github.io">میرا</a>
       </p>
     </section>
 </footer>

@@ -53,6 +53,7 @@
 			<a target="_blank" href="{{ MAIN.github }}" style="color:black"><i class="fab fa-github"></i></a>
 			<a target="_blank" href="{{ MAIN.keybase }}" style="color:black"><i class="fab fa-keybase"></i></a>
 			<a target="_blank" href="{{ MAIN.linkedin }}" style="color:black"><i class="fab fa-linkedin"></i></a>
+			<a target="_blank" href="{{ MAIN.medium }}" style="color:black"><i class="fab fa-medium"></i></a>
 			<a target="_blank" href="{{ MAIN.skype }}" style="color:black"><i class="fab fa-skype"></i></a>
 			<a target="_blank" href="mailto:{{ MAIN.email }}" style="color:black"><i class="fas fa-at"></i></a>
 			<a href="/fa" style="color:black"><i class="fas fa-align-right"></i></a>

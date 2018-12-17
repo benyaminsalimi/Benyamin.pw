@@ -3,3 +3,5 @@
   X-XSS-Protection: 1; mode=block
   X-Frame-Options: SAMEORIGIN
   X-Content-Type-Options: nosniff
+  Content-Security-Policy: frame-ancestors 'self'
+  X-Frame-Options: SAMEORIGIN

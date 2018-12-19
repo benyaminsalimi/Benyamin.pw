@@ -51,6 +51,7 @@
 			<a target="_blank" href="{{ MAIN.twitter }}" style="color:black"><i class="fab fa-twitter"></i></a>
 			<a target="_blank" href="{{ MAIN.youtube }}" style="color:black"><i class="fab fa-youtube"></i></a>
 			<a target="_blank" href="{{ MAIN.github }}" style="color:black"><i class="fab fa-github"></i></a>
+			<a target="_blank" href="{{ MAIN.gits }}" style="color:black"><i class="fas fa-book"></i></a>
 			<a target="_blank" href="{{ MAIN.keybase }}" style="color:black"><i class="fab fa-keybase"></i></a>
 			<a target="_blank" href="{{ MAIN.linkedin }}" style="color:black"><i class="fab fa-linkedin"></i></a>
 			<a target="_blank" href="{{ MAIN.medium }}" style="color:black"><i class="fab fa-medium"></i></a>

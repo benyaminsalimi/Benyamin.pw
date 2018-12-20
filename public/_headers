@@ -2,6 +2,7 @@
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
+  Content-Security-Policy: frame-ancestors 'self'
   Referrer-Policy: same-origin
   Feature-Policy: accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none';
   Strict-Transport-Security: max-age=31536000; includeSubdomains;

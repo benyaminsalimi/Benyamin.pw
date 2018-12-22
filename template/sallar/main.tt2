@@ -54,6 +54,7 @@
 			<a target="_blank" href="{{ MAIN.gits }}" style="color:black"><i class="fas fa-book"></i></a>
 			<a target="_blank" href="{{ MAIN.keybase }}" style="color:black"><i class="fab fa-keybase"></i></a>
 			<a target="_blank" href="{{ MAIN.linkedin }}" style="color:black"><i class="fab fa-linkedin"></i></a>
+			<!--a target="_blank" href="{{ MAIN.pdfresume }}" style="color:black"><i class="fas fa-file-pdf"></i></a --!>
 			<a target="_blank" href="{{ MAIN.medium }}" style="color:black"><i class="fab fa-medium"></i></a>
 			<a target="_blank" href="{{ MAIN.skype }}" style="color:black"><i class="fab fa-skype"></i></a>
 			<a target="_blank" href="mailto:{{ MAIN.email }}" style="color:black"><i class="fas fa-at"></i></a>
@@ -70,9 +71,8 @@
 
 <style>
  body{
- background-color: #fff;
- background-image: linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), linear-gradient(#eee .1em, transparent .1em);
- background-size: 100% 1.2em;}
+ background-color: #fcfcfc;
+ 	}
 </style>
 </body>
 </html>

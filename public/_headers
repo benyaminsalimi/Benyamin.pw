@@ -2,7 +2,7 @@
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
-  Content-Security-Policy: media-src 'self'; font-src 'self' data: https://use.fontawesome.com/; frame-ancestors 'self'; frame-src 'self'; style-src 'unsafe-inline' https://use.fontawesome.com; base-uri 'self'; script-src 'self' ; img-src 'self'; form-action 'self'; object-src 'self'; default-src 'none'
+  Content-Security-Policy: media-src 'self'; font-src 'self' data: https://use.fontawesome.com/; frame-ancestors 'self'; frame-src 'self'; style-src 'self' 'unsafe-inline' https://use.fontawesome.com; base-uri 'self'; script-src 'self' ; img-src 'self'; form-action 'self'; object-src 'self'; default-src 'none'
   Referrer-Policy: same-origin
   Feature-Policy: accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none';
   Strict-Transport-Security: max-age=31536000; includeSubdomains;

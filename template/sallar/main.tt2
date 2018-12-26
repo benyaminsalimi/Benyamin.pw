@@ -16,18 +16,6 @@
 
 	<meta name="description" content="programming">
 
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id={{ MAIN.GoogleTrackingID }}"></script>
-	<script>
-  	window.dataLayer = window.dataLayer || [];
-  	function gtag(){dataLayer.push(arguments);}
-  	gtag('js', new Date());
-
-  	gtag('config', '{{ MAIN.GoogleTrackingID }}');
-	</script>
-
-
-
 </head>
 <body>
 

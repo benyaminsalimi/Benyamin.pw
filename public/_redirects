@@ -1,5 +1,2 @@
-# Redirect domain aliases to primary domain
-http://cyanogen.ir/* http://benyamin.pw/:splat 301!
-
 # Optional: Redirect default Netlify subdomain to primary domain
 http://benyamin.netlify.com/* http://benyamin.pw/:splat 301!

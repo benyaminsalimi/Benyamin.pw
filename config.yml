@@ -20,8 +20,6 @@ feed_output: atom.xml
 default_floor: fa
 default_markup: mmd
 
-disqus_shortname: benyaminsalimi
-intensedebate_acct: 909a9ad12566c79462abd680d800cc74
 
 template: sallar
 
